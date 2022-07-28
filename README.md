@@ -1,1 +1,1 @@
-# intellj-practice-experiment
+# intellj-practice-experiments
